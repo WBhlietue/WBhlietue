@@ -1,7 +1,4 @@
-<picture>
-  <source  srcset="https://cdn.jsdelivr.net/gh/WBhlietue/WBhlietue@master/e.gif" />
-  <img src="https://cdn.jsdelivr.net/gh/WBhlietue/WBhlietue@master/e.gif" />
-</picture>
+![pic](./e5.GIF)
 
 <div align="center"> <img src="https://metrics.lecoq.io/WBhlietue?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
