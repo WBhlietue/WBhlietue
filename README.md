@@ -1,4 +1,4 @@
-![pic](./e5.GIF)
+![pic](./e5.gif)
 
 <div align="center"> <img src="https://metrics.lecoq.io/WBhlietue?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
