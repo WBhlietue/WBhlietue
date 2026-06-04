@@ -1,9 +1,9 @@
-<!-- <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/WBhlietue/WBhlietue@master/e4.gif" alt="演示动画">
-</div> -->
 <div align="center">
-  <img src="./e4.gif" alt="演示动画">
+  <img src="https://cdn.jsdelivr.net/gh/WBhlietue/WBhlietue@master/e4.gif" alt="演示动画">
 </div>
+<!-- <div align="center">
+  <img src="./e4.gif" alt="演示动画">
+</div> -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);I'm_The_God!;イレイナ_可愛い&center=true&size=27)](https://git.io/typing-svg)
