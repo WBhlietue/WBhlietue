@@ -1,3 +1,7 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI%20IS%20JUST%20TRASH!!;NO%20AI%20%20GOGOGO!&center=true&size=27)
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/WBhlietue/WBhlietue@master/e4.gif" alt="演示动画">
 </div>
@@ -6,7 +10,7 @@
 </div> -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Elaina%2C%20Cute%22);イレイナ%20可愛い&center=true&size=27)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Elaina%2C%20Cute%22);イレイナ%20可愛い&center=true&size=27)
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
