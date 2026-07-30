@@ -96,7 +96,6 @@
 
 
 ## 🌐 You can also find me in here
-[![Steam](https://img.shields.io/badge/Steam-1b2838?logo=steam&logoColor=white)](https://steamcommunity.com/id/WBhlietue)
 [![Itch](https://img.shields.io/badge/Itch-FA5C5C?logo=itchdotio&logoColor=white)](https://wbhlietue.itch.io/)
 [![Github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white)](https://github.com/WBhlietue)
 
